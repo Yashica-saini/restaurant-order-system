@@ -62,14 +62,7 @@ All tasks were implemented using basic Python concepts without using external li
 
 ---
 
-## File Structure
 
-```
-restaurant-order-system
-│
-├── part2_order_system.py
-└── README.md
-```
 
 ---
 
